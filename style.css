@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(to right, #f1f2b5, #135058);
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: impact;
+}
+
+button {
+    width: 250px;
+    height: 60px;
+    background-color: rgb(87, 29, 221);
+    color: white;
+    cursor: pointer;
+}
+
+p {
+    font-size: 35px;
+}
+
+button:hover {
+    background-color: green;
+    border-radius: 8px;
+}
